@@ -1,4 +1,4 @@
-## The Amazing Adventures of Kavalier and Clay
+## John Chu短篇小说合集
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 ![avatar](https://miro.medium.com/max/1200/1*C2eFdxuvJQU5KmzO02kZSA.jpeg)
 <br>
