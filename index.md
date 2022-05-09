@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+## The Amazing Adventures of Kavalier and Clay
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+![avatar](https://miro.medium.com/max/1200/1*C2eFdxuvJQU5KmzO02kZSA.jpeg)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/JohnChu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+作品：Thirty Seconds from Now <br>
+评分：4.4/5<br>
+关键词：感知未来；大学室友<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+John Chu的处女作，发表在波士顿评论上。大学生Scott拥有能感知未来的超能力，然而他看到的未来往往有多种可能，会因不同的举动而导致不同的未来。现在他坐在宿舍里，看到30秒后新室友Tony即将进入房间，他接着看到了两人几分钟，九小时，四天，两星期，一个月，两个月，三个半月以后的情感。原来Scott能看到未来的能力让他从小就对一切可能导致坏结局的情感充满畏惧，干脆直接从一开始就斩草除根，但这一次他决定不再被自己的感知定义，去争取属于自己的未来，他在房间里等着Tony推开门的一瞬间。
 
-### Markdown
+<br>
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+作品：Best of All Possible Worlds<br>
+评分：4.5/5<br>
+关键词：歌剧；博士论文答辩；外星人男友
 
-```markdown
-Syntax highlighted code block
+Irving是工学博士，即将迎来他的博士论文答辩，正为他设计的缓存器焦虑不已。他一直暗恋的外星人Declan平时看起来与人类无异，但却有着侵入大脑改变人感知的能力，只有Irving知道Declan的真实身份，而Declan也只愿意把自己的技能用在Irving身上，让喜欢歌剧的Irving随时随地全感官享受到原声现场歌剧。
 
-# Header 1
-## Header 2
-### Header 3
+这天Irving在厨房做早餐时突然听到了歌剧《坎迪德》的开场曲目，原来是Declan突然拜访。Declan感受到了Irving即将答辩的压力，决定带着她进入《坎迪德》的虚拟世界。被包围在管弦乐和民谣中，Irving来到了十七世纪欧洲《坎迪德》的发生地，和歌剧中的人物同生共死，最终他被推向绞刑架将在那里模拟他的论文答辩，而Declan全程在他的大脑里陪伴他。
 
-- Bulleted
-- List
+<br>
+<br>
 
-1. Numbered
-2. List
+作品：The Water That Falls on You from Nowhere<br>
+评分：4.7/5<br>
+关键词：谎言之水；中国父母；出柜；传宗接代
 
-**Bold** and _Italic_ and `Code` text
+地球不久后气候改变，人只要一说谎就会天降暴雨。华裔Matt和白人男友Gus恋爱多年，却一直不敢向保守的中国父母出柜，这天在谎言之水的提示下，Matt意识到Gus对自己求婚了，他下定决心决定带着自己的未婚夫在圣诞节向保守的中国父母出柜。
 
-[Link](url) and ![Image](src)
-```
+<br>
+<br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+作品：勢孤取和<br>
+评分：4.4/5<br>
+关键词：仿真人；围棋；集中营；逃生
 
-### Jekyll Themes
+这个标题我原本还以为是作者自造中文词，一查才发现是围棋术语。战争结束，Jake作为电子人也失去了价值，被按照停战协议送进了集中营等待接受毁灭。他活下去的唯一希望就是成功以假乱真成人类，让军方信服电子人能和普通人一样去外面生活。在这里他遇到了看似是人类但实则也是电子人的Tyler，两人的感情通过围棋对决渐深。然而被人道毁灭的阴霾始终笼罩，他们最终能否突破重围大隐隐于人类社会？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/JohnChu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<br>
+<br>
 
-### Support or Contact
+作品：Dancing with Death<br>
+评分：4.7/5<br>
+关键词：白无常；即将机器人 & 引渡机器人亡灵的白无常/机械工程师；花样滑冰
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+“我”是一个物流机器人，电池寿命即将结束报废。这天我电池意外没电，醒来发现又来到了Charlie的维修店里。Charlie是我多年来的机械维修师，而他的另一个工作是担任超度机器人亡灵的白无常。我告知了Charlie关于自己即将报废的真相，但Charlie执意要去黑市买来材料帮我换心脏电池，不肯让我死去。
+
+我其实并不喜欢送货，喜欢花样滑冰的我其实想去做花滑的教练，而喜欢冰球的Charlie很能理解。在Charlie给我动手术前的一天，我不安地接下了花滑教练的一份工作。在取下旧电池的那一瞬间，我来到黄泉之下，发现Charlie已经化身白无常在那里等我。他要我不要离开，和我一起在黄泉之上跳着我最喜欢的花滑舞蹈《罗曼探戈》。一曲舞蹈惊心动魄，我有数次差点跌落黄泉，但最终有惊无险重返现实世界，此时机械工程师Charlie也已经把电池换好了。第二天我来到了溜冰场上班，和Charlie当着众人的面跳了《罗曼探戈》。
+
+<br>
+<br>
+
+作品：Making the Magic Lightning Strike Me<br>
+评分：4.4/5<br>
+关键词：改造人；友谊
+
+这篇从头到尾都非常忧伤。Charlie和Thom是多年好友，Thom人高马大，Charlie曾经比较瘦小十分自卑，但后来Charlie接受了身体改造也变得强壮，成为了一名服务于富人的秘密特工。然而身体的强大并没有改变Charlie内心的空虚和自卑，而他活着的寄托就是对Thom的暗恋和友谊，尽管Thom当着他的面换了一个又一个男友。Thom看着Charlie日益憔悴想让他放弃工作，但Charlie始终无法过自己的一关，因为只要一退出组织，他体内的装置就会被剥夺，这个强壮的身体已经和他的身份认同捆死在了一起。
+
+<br>
+<br>
+
+作品：Incomplete Proof<br>
+评分：4.8/5<br>
+关键词：数学家；证明等于时装制作走秀；Godel不完备定理
+
+在这个世界数学证明是一件件可以走秀的时装。Grant和Duncan多年前以情侣的身份一起勇攀数学高峰，但Duncan的自大最终让Grant无法忍受而分手。现在教职受阻的Grant被迫接受了Duncan的哥德尔不完备定理证明秋季时装展担任模特，然而这一切都是Duncan为了复合设下的计划。
+
+<br>
+<br>
+
+作品：How to Piss Off a Failed Super-Soldier<br>
+评分：4.8/5<br>
+关键词：失败改造人 & 暗杀特工；短篇小说；科幻；大逃杀；敌人变爱人
+
+小说明线是改造士兵Aitch一天内的经历，他和同为改造人的弟弟Jay逃离追杀，去大科学家母亲医院解除Aitch体内的共生体，而小说暗线通过弟弟对哥哥感情的逼问展开，Aitch喜欢上了攀岩相识的男高音歌手Simon，但却意外让对方获得了对自己的精神控制权，更可怕的是Simon最终被发现是个要暗杀他的特工，但最终在高潮的打斗中所有线索又汇集到一起，并在小说的结尾实现了爱人之间、兄弟之间、还有Aitch和自己内心的和解HE。
